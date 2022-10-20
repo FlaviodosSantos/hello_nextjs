@@ -11,7 +11,8 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hello <a>Next.js</a> ! Here is <a>Flavim</a>!!!
+          Hello <a>Next.js</a> ! <br></br> 
+          Here is <a>Flavim</a>!!!
         </h1>
 
         <p className={styles.description}>
